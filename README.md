@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hey there, I've got a bit of a mixed bag when it comes to my background! So, I started out studying Maritime Transportation and Management Engineering – yeah, the whole ships and logistics deal. It was intriguing, but then my inner tech geek couldn't be contained anymore, so I made this pivot into the software world. Now I'm all about Python and JavaScript, diving headfirst into coding and development stuff. It's like a whole new universe opened up!<br><br>And you know what? I'm not just stopping there. I'm all about that constant growth and challenge. Every day is a chance to learn something new, and I'm totally here for it. Besides, it's not all geeky stuff – I balance it out with hobbies that keep me sane. I love hitting the pool for a swim, experimenting in the kitchen with cooking (sometimes it's a hit, sometimes a hilarious miss), and lifting some weights to feel like a total powerhouse.<br><br>Anyway, that's me – a bit of a mix between the tech world and the real world. Always up for a chat, some learning, or even just swapping funny workout stories!</p>
+<p align="left">I am a 26-year-old maritime graduate who has transitioned into the field of software development due to a profound interest in technology. With a strong commitment to self-improvement, I have focused my efforts on specializing in back-end development. My dedication to this craft is fueled by the ever-evolving nature of the software industry, and I am determined to excel in this dynamic field. I am actively seeking opportunities to collaborate with and learn from anyone willing to work together to improve and innovate in the world of software development.</p>
 
 ###
 
