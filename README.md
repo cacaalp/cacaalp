@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I am a 26-year-old maritime graduate who has transitioned into the field of software development due to a profound interest in technology. With a strong commitment to self-improvement, I have focused my efforts on specializing in back-end development, data analysis, cyber security.I am actively seeking opportunities to collaborate with and learn from anyone willing to work together to improve and innovate in the world of software development.
+<p align="left">I am a 26-year-old Maritime Transportation and Management Engineering graduate from Piri Reis University(Bachelors), who has transitioned into the field of software development due to a profound interest in technology. Currently Studying Computer Programming in Istanbul University (Associate) with a strong commitment to self-improvement, I have focused my efforts on specializing in back-end development, data analysis, cyber security.I am actively seeking opportunities to collaborate with and learn from anyone willing to work together to improve and innovate in the world of software development.
 Please dont hesitate to contact me.</p>
 
 ###
